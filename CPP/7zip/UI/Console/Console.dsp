@@ -345,6 +345,10 @@ SOURCE=..\..\..\Windows\Registry.h
 # End Source File
 # Begin Source File
 
+SOURCE=..\..\..\Windows\SecurityUtils.h
+# End Source File
+# Begin Source File
+
 SOURCE=..\..\..\Windows\Synchronization.h
 # End Source File
 # Begin Source File
@@ -354,6 +358,14 @@ SOURCE=..\..\..\Windows\System.cpp
 # Begin Source File
 
 SOURCE=..\..\..\Windows\System.h
+# End Source File
+# Begin Source File
+
+SOURCE=..\..\..\Windows\SystemInfo.cpp
+# End Source File
+# Begin Source File
+
+SOURCE=..\..\..\Windows\SystemInfo.h
 # End Source File
 # Begin Source File
 
@@ -394,6 +406,14 @@ SOURCE=..\..\..\Common\CRC.cpp
 # Begin Source File
 
 SOURCE=..\..\..\Common\Defs.h
+# End Source File
+# Begin Source File
+
+SOURCE=..\..\..\Common\DynLimBuf.cpp
+# End Source File
+# Begin Source File
+
+SOURCE=..\..\..\Common\DynLimBuf.h
 # End Source File
 # Begin Source File
 
@@ -876,6 +896,14 @@ SOURCE=..\..\..\..\C\Threads.h
 # Begin Group "ArchiveCommon"
 
 # PROP Default_Filter ""
+# Begin Source File
+
+SOURCE=..\..\Archive\Common\ItemNameUtils.cpp
+# End Source File
+# Begin Source File
+
+SOURCE=..\..\Archive\Common\ItemNameUtils.h
+# End Source File
 # Begin Source File
 
 SOURCE=..\..\Archive\Common\OutStreamWithCRC.cpp
